@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-style: italic;
+    color: orange;
+}
+
+img{
+    border: solid 2px orange;
+    border-radius: 10px;
+}
+
+p{
+    font-weight: bold;
+}
+
+button{
+    background-color: orange;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card{
+    border-radius: 10px;
+    background-color: lightgrey;
+    padding: 20px 0 20px 0;
+    width: 90%;
+    margin: auto;
+}
